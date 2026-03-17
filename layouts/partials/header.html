@@ -1,6 +1,6 @@
 <header>
-    <a href="/" class="nav-logo">
-        <img src="/logo-header.svg" alt="the BookCellar">
+    <a href="{{ "/" | absURL }}" class="nav-logo">
+        <img src="{{ "logo-header.svg" | absURL }}" alt="the BookCellar">
     </a>
     <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
         <span></span>
@@ -9,10 +9,10 @@
     </button>
     <nav id="main-nav">
         <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about/">About</a></li>
-            <li><a href="/careers/">Careers</a></li>
-            <li><a href="/contact/">Contact</a></li>
+            <li><a href="{{ "/" | absURL }}">Home</a></li>
+            <li><a href="{{ "/about/" | absURL }}">About</a></li>
+            <li><a href="{{ "/careers/" | absURL }}">Careers</a></li>
+            <li><a href="{{ "/contact/" | absURL }}">Contact</a></li>
         </ul>
     </nav>
 </header>
