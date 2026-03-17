@@ -2,7 +2,6 @@
 title: "About"
 ---
 
-## Come for the books, stay for the wine
 
 The BookCellar opens in Spring 2026 at 100 Stokes Croft, in the heart of Bristol's most characterful neighbourhood. We're an independent bookshop and reading room, a place built around the simple pleasure of a good book and a good glass.
 
@@ -11,6 +10,8 @@ The idea came from wanting somewhere that doesn't quite exist yet. A third place
 We serve carefully chosen wine and speciality teas & coffee, and our shelves are stocked with books we've read and loved, from the latest page-turners to classic literature and specialist titles. Everything we offer is chosen with care, and none of it comes with snobbery. The reading room sits on the shop floor, so browsing and lingering are the same thing.
 
 Community is at the heart of what we're building. We have dedicated rooms for book groups, author events, and literary evenings, and we're always looking for new voices and new readers to fill them. If you'd like to get involved, we'd love to hear from you.
+
+Come for the books, stay for the wine
 
 <div class="about-cta">
 
