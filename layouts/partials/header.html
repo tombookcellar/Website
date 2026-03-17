@@ -1,5 +1,5 @@
 <header>
-    <a href="{{ "" | relURL }}" class="nav-logo">
+    <a href="{{ "" | relURL }}" class="nav-logo{{ if .IsHome }} nav-logo-hidden{{ end }}">
         <img src="{{ "logo-header.svg" | relURL }}" alt="the BookCellar">
     </a>
     <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">

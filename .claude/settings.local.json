@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(hugo version:*)",
+      "Bash(git -C \"c:/Users/tomba/OneDrive/Documents/GitHub/Website\" show HEAD:static/logo.svg)",
+      "Bash(\"c:/Users/tomba/OneDrive/Documents/GitHub/Website/static/logo.svg\")",
+      "Bash(git -C \"c:/Users/tomba/OneDrive/Documents/GitHub/Website\" log --oneline --all -- static/logo.svg)",
+      "Bash(git -C \"c:/Users/tomba/OneDrive/Documents/GitHub/Website\" status --short static/)"
+    ]
+  }
+}
