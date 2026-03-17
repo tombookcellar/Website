@@ -1,0 +1,8 @@
+baseURL = "https://bookcellar.uk"
+languageCode = "en-gb"
+title = "the BookCellar"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
