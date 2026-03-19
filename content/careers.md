@@ -6,6 +6,8 @@ Everyone who works at the BookCellar is, first and foremost, a bookseller. Whate
 
 We're currently recruiting for three roles ahead of our Spring 2026 opening. Details for how to apply can be found in the job description.
 
+Please note that all roles involve serving alcohol, so we can only accept candidates aged 18 years and older.
+
 <div class="job-section">
 
 ### Assistant Manager, Food and Drink

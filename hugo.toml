@@ -1,6 +1,7 @@
 baseURL = "https://bookcellar.uk"
 languageCode = "en-gb"
 title = "the BookCellar"
+disableKinds = ["taxonomy", "term"]
 
 [markup]
   [markup.goldmark]
