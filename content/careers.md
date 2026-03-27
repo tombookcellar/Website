@@ -10,11 +10,11 @@ Please note that all roles involve serving alcohol, so we can only accept candid
 
 <div class="job-section">
 
-### Assistant Manager, Food and Drink
+### Assistant Manager, Hospitality
 
-Leading our wine and coffee offer, ensuring every customer has a great experience in the reading room.
+Creating and nurturing the atmosphere of our reading room and managing our hospitality operations.
 
-[Download job description](/pdfs/assistant-manager-food-drink.pdf)
+[Download job description](/pdfs/assistant-manager-hospitality.pdf)
 
 </div>
 
